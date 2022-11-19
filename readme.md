@@ -1,0 +1,1 @@
+https://dev.to/christianzink/databases-in-a-kubernetes-angular-net-core-microservice-architecture-22jc
